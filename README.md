@@ -10,4 +10,14 @@ its built **HTML**,**CSS**,and **Javascript**- but one day,I want to expand it i
 - 🌿 *Energy use*
 - 🚗 *Transportation impact*
 - 🍔 *Food consumption patterns**
--Display 
+- Display personalized reports using:
+
+- >Console. log()       is to degug progress
+
+```js
+if {carbonScore < 50} {
+  conslole.log("Great job staying eco-friendly!");
+} else {
+console.log(Let's find ways to reduce your footprint!"); 
+```
+
